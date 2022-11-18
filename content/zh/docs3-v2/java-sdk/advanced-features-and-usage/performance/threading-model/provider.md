@@ -3,7 +3,7 @@ type: docs
 title: "服务端线程模型"
 linkTitle: "服务端线程模型"
 weight: 1
-description: "Dubbo 服务提供端端线程池模型和用法"
+description: "Dubbo 服务提供端线程池模型和用法"
 ---
 
 
